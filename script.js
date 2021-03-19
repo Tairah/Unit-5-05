@@ -1,7 +1,2 @@
-const button = document.getElementById("id_side");
-let area = 1;
-
-function calculateArea () {
-  let side = document.getElementById("id_side").value;
-  return side * side;
-}
+let number = 0
+let sentence = 'hello, this is the number 8.'
